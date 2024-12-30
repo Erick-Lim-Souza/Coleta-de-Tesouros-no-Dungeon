@@ -31,6 +31,9 @@ A tabela abaixo apresenta exemplos com alguns dados de entrada e suas respectiva
 
 ![image](https://github.com/user-attachments/assets/83af9c65-f067-43b6-8770-884fd7159040)
 
+![image](https://github.com/user-attachments/assets/7bd39d33-aba8-4687-bf0d-935fd8579d1f)
+
+
 🤖 Tecnologias Utilizadas javascript e VsCode
 
 🧐 Processo de criação utilizei a ferramenta Vscode para desenvolvimento do desafio.
